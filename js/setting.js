@@ -31,7 +31,7 @@ OpenSpending.Styles.Cofog = {
   '301': { icon: 'icons/c_fukushi.svg', color: '#C75746', bcolor: '#4E6D00' },
   '302': { icon: 'icons/c_kosodate_shien.svg', color: '#C75746', bcolor: '#4E6D00' },
   '303': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '304': { icon: 'icons/c_bousai.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '304': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#4E6D00' },
   '305': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#4E6D00' },
   '306': { icon: 'icons/health.svg', color: '#C75746', bcolor: '#4E6D00' },
   '307': { icon: 'icons/health.svg', color: '#C75746', bcolor: '#4E6D00' },
